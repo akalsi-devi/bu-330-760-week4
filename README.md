@@ -32,4 +32,5 @@ The agent will work through each question in `math_questions.md` and print the R
 - `calculator.py` - calculator tool
 - `products.json` - product catalog with prices
 - `math_questions.md` - the questions the agent solves
-- `.env.example` - template for your API key
+- `.env.example` - template for your API key ## Video Walkthrough
+https://youtu.be/--G0MKcl9QE
